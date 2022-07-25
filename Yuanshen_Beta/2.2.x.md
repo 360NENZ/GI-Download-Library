@@ -1,0 +1,9 @@
+**[Client | 2.2.0](https://autopatchcn.yuanshen.com/client_app/beta_pc/20210830_2d3d98c55cc95f0e/YuanShen_2.2.0beta.zip)**
+
+**[Client | 2.2.1](https://autopatchcn.yuanshen.com/client_app/beta_pc/20210903_1cc3a5d377e2a6fb/YuanShen_2.2.1beta.zip)**
+
+**[Client | 2.2.2](https://autopatchcn.yuanshen.com/client_app/beta_pc/20210910_f2d3772baa33dc89/YuanShen_2.2.2beta.zip)**
+
+**[Client | 2.2.3](https://autopatchcn.yuanshen.com/client_app/beta_pc/20210917_d2b759190234657d/YuanShen_2.2.3beta.zip)**
+
+**[Client | 2.2.4](https://autopatchcn.yuanshen.com/client_app/beta_pc/20210923_7fad8ab0e6997e69/YuanShen_2.2.4beta.zip)**
