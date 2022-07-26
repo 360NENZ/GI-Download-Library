@@ -1,0 +1,3 @@
+**[Update | 2.0.50 - 2.0.51](https://autopatchcn.yuanshen.com/client_app/beta_update/hk4e_cn/15/game_2.0.50_2.0.51_diff_1iMPRcIZzJf4y7js.zip)**
+
+**[Update | 2.0.51 - 2.0.52](https://autopatchcn.yuanshen.com/client_app/beta_update/hk4e_cn/15/game_2.0.51_2.0.52_diff_FXCjpYt31ShLgEoA.zip)**
