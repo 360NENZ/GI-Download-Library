@@ -1,9 +1,15 @@
 # GI-Download-Library
 ## Genshin and Yuanshen Download Links
 
-### What's the difference between Genshin and Yuanshen?
-* Genshin - Global Version
-* Yuanshen - CN Version
+### What's inside
+* Links of the **_"autopatchhk"_** and **_"autopatchcn"_** version of the Genshin/Yuanshen **Release**, **Beta** and **Audio** files
 
+### What is _"autoptachhk"_ and _"autopatchcn"_
+* **autopatchhk** - Genshin Impact
+* **autopatchcn** - Yuanshen
+
+### What's the difference between Genshin and Yuanshen?
+* **Genshin Impact** - Global Version
+* **Yuanshen** - Chinese Version
 ---
-**Note** : it's still incomplete, I might add some patches in the beta, add release ver. and audio patches also. This repo is updated to 2.8.52.
+**Note**: This repo will update from time to time when new version of the game gets released.
