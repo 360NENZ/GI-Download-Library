@@ -4,7 +4,7 @@
 ### What's inside
 * Links of the **_"autopatchhk"_** and **_"autopatchcn"_** version of the Genshin/Yuanshen **Release**, **Beta** and **Audio** files
 
-### What is _"autoptachhk"_ and _"autopatchcn"_
+### What is _"autopatchhk"_ and _"autopatchcn"_
 * **autopatchhk** - Genshin Impact
 * **autopatchcn** - Yuanshen
 
