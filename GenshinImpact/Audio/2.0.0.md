@@ -1,0 +1,37 @@
+**[Chinese | 2.0.0](https://autopatchhk.yuanshen.com/client_app/pc_mihoyo/20210721_3a3ca8dfe8b26ea2/Audio_Chinese_2.0.0.zip)**
+
+**[Update | 1.5.1 - 2.0.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/zh-cn_1.5.1_2.0.0_diff_VlbG3H7j5FnDyZPQ.zip)**
+
+**[Update | 1.6.0 - 2.0.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/zh-cn_1.6.0_2.0.0_diff_w4oOYzASepP9Rlc0.zip)**
+
+**[Update | 1.6.1 - 2.0.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/zh-cn_1.6.1_2.0.0_diff_kxn7JGptOMsUWeXf.zip)**
+
+---
+
+**[English | 2.0.0](https://autopatchhk.yuanshen.com/client_app/pc_mihoyo/20210721_3a3ca8dfe8b26ea2/Audio_English(US)_2.0.0.zip)**
+
+**[Update | 1.5.1 - 2.0.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/en-us_1.5.1_2.0.0_diff_wTH9VsqD5lnWkjAa.zip)**
+
+**[Update | 1.6.0 - 2.0.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/en-us_1.6.0_2.0.0_diff_F9KsGgq5duEzpVi2.zip)**
+
+**[Update | 1.6.1 - 2.0.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/en-us_1.6.1_2.0.0_diff_pa7XSfuvwheYHlR4.zip)**
+
+---
+
+**[Japanese | 2.0.0](https://autopatchhk.yuanshen.com/client_app/pc_mihoyo/20210721_3a3ca8dfe8b26ea2/Audio_Japanese_2.0.0.zip)**
+
+**[Update | 1.5.1 - 2.0.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ja-jp_1.5.1_2.0.0_diff_fZTRde6j4YOgCwDU.zip)**
+
+**[Update | 1.6.0 - 2.0.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ja-jp_1.6.0_2.0.0_diff_bGKRLxOIFYU740nT.zip)**
+
+**[Update | 1.6.1 - 2.0.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ja-jp_1.6.1_2.0.0_diff_Rr1nlK3O0Wjgo4M2.zip)**
+
+---
+
+**[Korean | 2.0.0](https://autopatchhk.yuanshen.com/client_app/pc_mihoyo/20210721_3a3ca8dfe8b26ea2/Audio_Korean_2.0.0.zip)**
+
+**[Update | 1.5.1 - 2.0.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ko-kr_1.5.1_2.0.0_diff_wjn7rFZKqz0Eux3o.zip)**
+
+**[Update | 1.6.0 - 2.0.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ko-kr_1.6.0_2.0.0_diff_VoMeKwuyAZ1jRItk.zip)**
+
+**[Update | 1.6.1 - 2.0.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ko-kr_1.6.1_2.0.0_diff_YHsxbir0lqzcvNIk.zip)**
