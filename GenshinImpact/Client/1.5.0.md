@@ -1,0 +1,9 @@
+**[Client | 1.5.0](https://autopatchhk.yuanshen.com/client_app/pc_mihoyo/20210428_de80a243f7474c39/GenshinImpact_1.5.0.zip)**
+
+**[Client | 1.5.1](https://autopatchhk.yuanshen.com/client_app/pc_mihoyo/20210430_27ad367085356fd4/GenshinImpact_1.5.1.zip)**
+
+---
+
+**[Update | 1.4.0 - 1.5.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_1.4.0_1.5.0_diff_H8LGSgKU.zip)**
+
+**[Update | 1.5.0 - 1.5.1](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_1.5.0_1.5.1_diff_MF8HJNzT.zip)**
