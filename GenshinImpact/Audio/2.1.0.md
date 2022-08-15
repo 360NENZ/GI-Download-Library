@@ -1,0 +1,30 @@
+**[Chinese | 2.1.0](https://autopatchhk.yuanshen.com/client_app/pc_mihoyo/20210901_db535e31166295ac/Audio_Chinese_2.1.0.zip)**
+
+**[Update | 1.6.1 - 2.1.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/zh-cn_1.6.1_2.1.0_diff_vh3oYQe1kctqNIbO.zi)**
+
+**[Update | 2.0.0 - 2.1.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/zh-cn_2.0.0_2.1.0_diff_UCr51Zxdu9aAjGYg.zip)**
+
+
+---
+
+**[English | 2.1.0](https://autopatchhk.yuanshen.com/client_app/pc_mihoyo/20210901_db535e31166295ac/Audio_English(US)_2.1.0.zip)**
+
+**[Update | 1.6.1 - 2.1.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/en-us_1.6.1_2.1.0_diff_VLagihjWn3rFAm8X.zip)**
+
+**[Update | 2.0.0 - 2.1.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/en-us_2.0.0_2.1.0_diff_n8EeG923ZU1BPcgq.zip)**
+
+---
+
+**[Japanese | 2.1.0](https://autopatchhk.yuanshen.com/client_app/pc_mihoyo/20210901_db535e31166295ac/Audio_Japanese_2.1.0.zip)**
+
+**[Update | 1.6.1 - 2.1.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ja-jp_1.6.1_2.1.0_diff_uFVREQ8SgUcOlNoP.zip)**
+
+**[Update | 2.0.0 - 2.1.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ja-jp_2.0.0_2.1.0_diff_Ub6DpehQk19xKEVa.zip)**
+
+---
+
+**[Korean | 2.1.0](https://autopatchhk.yuanshen.com/client_app/pc_mihoyo/20210901_db535e31166295ac/Audio_Korean_2.1.0.zip)**
+
+**[Update | 1.6.1 - 2.1.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ko-kr_1.6.1_2.1.0_diff_XyfOJVYxLSlR21zA.zip)**
+
+**[Update | 2.0.0 - 2.1.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ko-kr_2.0.0_2.1.0_diff_SYrI5qspl1z4tBRn.zip)**
