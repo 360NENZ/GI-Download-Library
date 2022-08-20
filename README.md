@@ -1,4 +1,5 @@
 # GI-Download-Library
+![paimon](https://upload-static.hoyoverse.com/payment-center/2020/08/07/0ff079b16fe6f9dfbf4eeb6e88a760b6_3134491283013841501.png)
 ## Genshin and Yuanshen Download Links
 
 ### What's inside
@@ -8,8 +9,8 @@
 * **autopatchhk** - Genshin Impact
 * **autopatchcn** - Yuanshen
 
-### What's the difference between Genshin and Yuanshen?
-* **Genshin Impact** - Global Version
+### What's the difference between _"Genshin"_ and _"Yuanshen"_?
+* **Genshin Impact** - Overseas Version
 * **Yuanshen** - Chinese Version
 ---
 **Note**: This repo will update from time to time when new version of the game gets released.
