@@ -1,0 +1,7 @@
+**[Client | 2.5.0](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20220125104720_x2gRaOdngikczohR/GenshinImpact_2.5.0.zip)**
+
+---
+
+**[Update | 2.3.0 - 2.5.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_2.3.0_2.5.0_hdiff_DFWAwSmaTj7n90Ru.zip)**
+
+**[Update | 2.4.0 - 2.5.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_2.4.0_2.5.0_hdiff_G7AskHSpFPiXwRyU.zip)**
