@@ -13,4 +13,7 @@
 * **Genshin Impact** - Overseas Version
 * **Yuanshen** - Chinese Version
 ---
-**Note**: This repo will update from time to time when new version of the game gets released.
+**Note**: 
+* This repository will update from time to time when new version of the game gets released.
+* This repository is for archive purposes only.
+* Anyone can contribute to this Repository.
