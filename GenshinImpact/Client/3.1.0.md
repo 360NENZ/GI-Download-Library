@@ -1,0 +1,7 @@
+**[Client | 3.1.0](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20220917165430_NyMmj1Ta9KlZKgCZ/GenshinImpact_3.1.0.zip)**
+
+---
+
+**[Update | 2.8.0 - 3.1.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_2.8.0_3.1.0_hdiff_vQp41GPwdscT3UxV.zip)**
+
+**[Update | 3.0.0 - 3.1.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_3.0.0_3.1.0_hdiff_JajVqm1LS2G5Wd3g.zip)**
