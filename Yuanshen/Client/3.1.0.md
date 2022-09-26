@@ -1,0 +1,8 @@
+**[Client | 3.0.0](https://autopatchcn.yuanshen.com/client_app/download/pc_zip/20220917165328_rVH9t4OWduSD75ye/YuanShen_3.1.0.zip)**
+
+---
+
+**[Update | 2.8.0 - 3.1.0](https://autopatchcn.yuanshen.com/client_app/update/hk4e_cn/18/game_2.8.0_3.1.0_hdiff_oPrDhBNzkmqt1WnV.zip)**
+
+
+**[Update | 3.0.0 - 3.1.0](https://autopatchcn.yuanshen.com/client_app/update/hk4e_cn/18/game_3.0.0_3.1.0_hdiff_3dlivNRan0Dq7ykP.zip)**
