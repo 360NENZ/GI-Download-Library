@@ -1,7 +1,11 @@
 # GI-Download-Library
 ![paimon](https://upload-static.hoyoverse.com/payment-center/2020/08/07/0ff079b16fe6f9dfbf4eeb6e88a760b6_3134491283013841501.png)
-## Genshin and Yuanshen Download Links
+<h3 align="center">
+<a href="/READNE_zh-CN.md">简体中文-zh-CN
+</a>
+</h3>
 
+## Genshin and Yuanshen Download Links
 ### What's inside
 * Links of the **_"autopatchhk"_** and **_"autopatchcn"_** version of the Genshin/Yuanshen **Release**, **Beta** and **Audio** files
 
