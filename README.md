@@ -1,9 +1,6 @@
 # GI-Download-Library
 ![paimon](https://upload-static.hoyoverse.com/payment-center/2020/08/07/0ff079b16fe6f9dfbf4eeb6e88a760b6_3134491283013841501.png)
-<h3 align="center">
-<a href="/READNE_zh-CN.md">简体中文-zh-CN
-</a>
-</h3>
+[EN](README.md) | [简中](README_zh-CN.md)
 
 ## Genshin and Yuanshen Download Links
 ### What's inside
