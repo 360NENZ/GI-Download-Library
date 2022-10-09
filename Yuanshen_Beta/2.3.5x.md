@@ -1,0 +1,1 @@
+**[Client | 2.3.50](https://autopatchcn.yuanshen.com/client_app/download/beta_pc/20211119155011_WfzkoNw80DakI2RG/YuanShen_2.3.50_beta.zip)**
