@@ -1,0 +1,7 @@
+**[Client | 1.3.52](https://autopatchcn.yuanshen.com/client_app/beta_pc/20210223_70cd0d6f49c60343/yuanshen_beta_1.3.52.zip)**
+
+**[Client | 1.3.53](https://autopatchcn.yuanshen.com/client_app/beta_pc/20210226_ecc49f98696bcae0/yuanshen_beta_1.3.53.zip)**
+
+-----
+
+**[Update | 1.3.50 - 1.3.53](https://autopatchcn.yuanshen.com/client_app/beta_update/hk4e_cn/4/1.3.50_1.3.53_diff_QU93tAel.zip)**
