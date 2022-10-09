@@ -1,0 +1,5 @@
+**[Client | 2.7.52](https://autopatchcn.yuanshen.com/client_app/download/beta_pc/20220527104129_Lzc4Gu93VnFQrmei/YuanShen_2.7.52_beta.zip)**
+
+-----
+
+**[Update | 2.7.50 - 2.7.51](https://autopatchcn.yuanshen.com/client_app/beta_update/hk4e_cn/28/game_2.7.50_2.7.51_hdiff_oX0jOmAIsygSF8Kl.zip)**
