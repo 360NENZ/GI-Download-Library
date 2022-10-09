@@ -1,0 +1,1 @@
+**[Client | 1.1.55](https://autopatchhk.yuanshen.com/client_app/beta_pc/20201204_14d758a0ff12fdc7/GenshinImpact_beta1.1.55new.zip)**
