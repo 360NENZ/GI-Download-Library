@@ -1,0 +1,7 @@
+**[Client | 2.3.53](https://autopatchhk.yuanshen.com/client_app/download/beta_pc/20211209103530_poUdKZse6pFnRuRd/GenshinImpact_2.3.53_beta.zip)**
+
+-----
+
+**[Update | 2.3.51 - 2.3.53](https://autopatchhk.yuanshen.com/client_app/beta_update/hk4e_global/22/game_2.3.51_2.3.53_diff_hScQbmOM5CXHjeNr.zip)**
+
+**[Update | 2.3.52 - 2.3.53](https://autopatchhk.yuanshen.com/client_app/beta_update/hk4e_global/22/game_2.3.52_2.3.53_diff_eyLdHK3NMU2upa48.zip)**
