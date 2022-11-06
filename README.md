@@ -3,6 +3,8 @@
 [EN](README.md) | [简中](README_zh-CN.md)
 
 ## Genshin and Yuanshen Download Links
+### Tips
+Since the 3.1.5 beta, mihoyo has added key and cookie verification to the download link (you can also share your keys and cookies
 ### What's inside
 * Links of the **_"autopatchhk"_** and **_"autopatchcn"_** version of the Genshin/Yuanshen **Release**, **Beta** and **Audio** files
 
