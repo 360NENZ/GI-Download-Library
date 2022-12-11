@@ -2,7 +2,7 @@
 ![paimon](https://upload-static.hoyoverse.com/payment-center/2020/08/07/0ff079b16fe6f9dfbf4eeb6e88a760b6_3134491283013841501.png)
 ## 原神中国版和国际版的下载链接
 ### 提示
-从3.1.5x beta开始mihoyo添加了key和cookie的下载验证（你也可以分享你的key和cookie
+从3.1.5x beta开始mihoyo添加了key和cookie的下载验证
 ### 仓库里面有什么？  
 * 仓库里面有原神 **_"autopatchhk"_** 和 **_"autopatchcn"_** 的链接，包括了 **发行版-Release**, **测试版-beta**和**音频文件-Audio files**
 
