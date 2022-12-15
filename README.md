@@ -15,7 +15,7 @@ Since the 3.1.5 beta, mihoyo has added key and cookie verification to the downlo
 * **autopatchcn** - Yuanshen
 
 ### What's the difference between _"Genshin"_ and _"Yuanshen"_?
-* **Genshin Impact** - Overseas Version
+* **Genshin Impact** - Overseas/Global Version
 * **Yuanshen** - Chinese Version
 ---
 **Note**: 
