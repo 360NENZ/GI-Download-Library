@@ -1,8 +1,8 @@
+**[Launcher | Final Closed Beta](https://autopatchhk.yuanshen.com/client_app/FinalClosedBeta/GenshinImpact.exe)**
+
 **[Launcher | 1.4.5x](https://autopatchhk.yuanshen.com/client_app/beta_update/hk4e_global/2/update_20210326162326.zip)**
 
 **[Launcher | 1.5.5x](https://autopatchhk.yuanshen.com/client_app/beta_pc/20210428_dc004387bbbcbe4b/GenshinImpact_Beta_T1528AH.exe)**
-
-**[Launcher | Final Closed Beta](https://autopatchhk.yuanshen.com/client_app/FinalClosedBeta/GenshinImpact.exe)**
 
 **[Launcher | 1.6.5x](https://autopatchhk.yuanshen.com/client_app/beta_update/hk4e_global/1/update_20210524163046_d51450b5GIEBa3TS.zip)**
 
