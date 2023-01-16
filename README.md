@@ -6,6 +6,19 @@
 ### Tips
 Since the 3.1.5 beta, mihoyo has added key and cookie verification to the download link.
 
+<details> 
+  <summary>IMPORTANT</summary>
+   
+This repository is under the supervision of miHoYo.
+
+If you want to share something that you think is dear to you and should not be deleted from the servers of miHoYo...
+
+You can contact me at discord: _keitaro_gg#9796_, or write me an email _wertust@shisui.ru_
+
+I will tell you whether it is worth sharing the original link, or it would be better to upload files to the cloud.
+
+</details>
+
 (if you are a tester, do not share your key pair, it`s based on your IP address and other personal information, cognosphere or mihoyo can easily find and punish you.)
 ### What's inside
 * Links of the **_"autopatchhk"_** and **_"autopatchcn"_** version of the Genshin/Yuanshen **Release**, **Beta** and **Audio** files
