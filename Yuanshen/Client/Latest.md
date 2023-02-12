@@ -3,3 +3,5 @@
 
 
 **[ Latest release links | CN Launcher Bilibili ](https://sdk-static.mihoyo.com/hk4e_cn/mdk/launcher/api/resource?channel_id=14&key=KAtdSsoQ&launcher_id=17)**
+
+**[ Latest release links | CN Launcher Cloud ](https://api-takumi.mihoyo.com/event/download_porter/time_link/clgm_cn/official/default)**
