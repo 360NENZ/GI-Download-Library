@@ -1,1 +1,1 @@
-**[DXSETUP](https://autopatchhk.yuanshen.com/client_app/plugins/DXSETUP.zip)**
+**[DXSETUP](https://autopatchhkws.yuanshen.com/client_app/plugins/DXSETUP.zip)**

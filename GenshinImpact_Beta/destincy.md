@@ -1,1 +1,1 @@
-**[Client | destincy](https://autopatchhk.yuanshen.com/client_app/destincy.zip)**
+**[Client | destincy](https://autopatchhkws.yuanshen.com/client_app/destincy.zip)**
