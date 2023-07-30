@@ -6,6 +6,8 @@
 ### Tips
 Since the 3.1.5 beta, mihoyo has added key and cookie verification to the download link.
 
+GenshinImpact_CBT and Yuanshen_CBT are pre-release tests, regardless of their version, they came out **before** 0.7.0
+
 ### What's inside
 * Links of the **_"autopatchhk"_** and **_"autopatchcn"_** version of the Genshin/Yuanshen **Release**, **Beta** and **Audio** files
 
