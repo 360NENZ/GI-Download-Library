@@ -9,6 +9,8 @@
 
 **[ Latest release links | CN Cloud Windows ](https://api-takumi.mihoyo.com/ptolemaios/api/getLatestRelease?app_id=1953443910&app_version=3.2.0&channel=mihoyo)**
 
+**[ Latest release links | CN Cloud Windows2 ](https://api-takumi.mihoyo.com/event/download_porter/link/clgm_cn/official/pc_ysgw)**
+
 -----
 
 **[ Latest launcher | CN Launcher miHoYo ](https://api-takumi.mihoyo.com/event/download_porter/time_link/ys_cn/official/default)**
