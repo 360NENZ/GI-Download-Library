@@ -11,6 +11,8 @@
 
 **[ Latest release links | CN Cloud Windows2 ](https://api-takumi.mihoyo.com/event/download_porter/link/clgm_cn/official/pc_ysgw)**
 
+**[ Latest release links | CN Launcher miHoYo ](https://api-takumi.mihoyo.com/event/download_porter/time_link/ys_cn/official/default)**
+
 -----
 
-**[ Latest launcher | CN Launcher miHoYo ](https://api-takumi.mihoyo.com/event/download_porter/time_link/ys_cn/official/default)**
+**[ Latest launcher | CN Launcher miHoYo ](https://api-takumi.mihoyo.com/event/download_porter/link/ys_cn/official/default)**
