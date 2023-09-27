@@ -5,3 +5,5 @@
 **[Launcher | 2.4.5x](https://autopatchcn.yuanshen.com/client_app/download/beta_launcher/20220103113657_LpravAF1WwODeiiD/YuanShen.exe)**
 
 **[Launcher | 3.5.5x](https://cnbetadownload.yuanshen.com/client_app/beta_update/hk4e_cn/40/update_20230310201218_ae59c98cqMhITZBe.zip)**
+
+**[Launcher | 4.0.5x](https://cnbetadownload.yuanshen.com/client_app/beta_update/hk4e_cn/54/update_20230810200801_1b169292xawXG9KI.zip)**
