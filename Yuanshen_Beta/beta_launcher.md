@@ -7,3 +7,5 @@
 **[Launcher | 3.5.5x](https://cnbetadownload.yuanshen.com/client_app/beta_update/hk4e_cn/40/update_20230310201218_ae59c98cqMhITZBe.zip)**
 
 **[Launcher | 4.0.5x](https://cnbetadownload.yuanshen.com/client_app/beta_update/hk4e_cn/54/update_20230810200801_1b169292xawXG9KI.zip)**
+
+**[Launcher | 4.1.5x](https://cnbetadownload.yuanshen.com/client_app/beta_update/hk4e_cn/57/update_20230926151229_efa9c2f58MQD0wLj.zip)**
