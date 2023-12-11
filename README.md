@@ -23,3 +23,6 @@ GenshinImpact_CBT and Yuanshen_CBT are pre-release tests, regardless of their ve
 * This repository will update from time to time when new version of the game gets released.
 * This repository is for archive purposes only.
 * Anyone can contribute to this Repository.
+
+### Unofficial re-uploads
+Gaobaiawa 123 Cloud Disk (https://www.123pan.com/s/HoqUVv-U7SBA.html)
