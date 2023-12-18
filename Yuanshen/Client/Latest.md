@@ -1,7 +1,11 @@
 
 **[ Latest release links | CN Resource miHoYo ](https://sdk-static.mihoyo.com/hk4e_cn/mdk/launcher/api/resource?launcher_id=18&key=eYd89JmJ&channel_id=1&sub_channel_id=1)**
 
+**[ Latest release links | CN Resource miHoYo2 ](https://hk4e-launcher-static.mihoyo.com/hk4e_cn/mdk/launcher/api/resource?channel_id=1&key=eYd89JmJ&launcher_id=18&sub_channel_id=1)**
+
 **[ Latest release links | CN Resource Bilibili ](https://sdk-static.mihoyo.com/hk4e_cn/mdk/launcher/api/resource?launcher_id=17&key=KAtdSsoQ&channel_id=14&sub_channel_id=0)**
+
+**[ Latest release links | CN Resource Bilibili2 ](https://hk4e-launcher-static.mihoyo.com/hk4e_cn/mdk/launcher/api/resource?channel_id=14&key=KAtdSsoQ&launcher_id=17&sub_channel_id=0)**
 
 **[ Latest release links | CN Android ](https://ys-api.mihoyo.com/event/download_porter/link/ys_cn/official/android_default)**
 
