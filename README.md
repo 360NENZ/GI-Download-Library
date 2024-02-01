@@ -4,9 +4,9 @@
 
 ## Genshin and Yuanshen Download Links
 ### Tips
-Since the 3.1.5 beta, mihoyo has added key and cookie verification to the download link.
+Since the 3.1.5 beta, game developer has added key and cookie verification to the download link, so raw links of beta will not allow to download beta resources for people who doesn't have beta access, but links still welcomed for archive purposes!
 
-GenshinImpact_CBT and Yuanshen_CBT are pre-release tests, regardless of their version, they came out **before** 0.7.0
+GenshinImpact_CBT and Yuanshen_CBT are pre-release, regardless of their version, they came out **before** 0.7.0
 
 ### What's inside
 * Links of the **_"autopatchhk"_** and **_"autopatchcn"_** version of the Genshin/Yuanshen **Release**, **Beta** and **Audio** files
@@ -20,9 +20,10 @@ GenshinImpact_CBT and Yuanshen_CBT are pre-release tests, regardless of their ve
 * **Yuanshen** - Chinese Version
 ---
 **Note**: 
+
+* This repository include links from publicly available internet resources that have been carefully collected and organized by the repository contributors.
 * This repository will update from time to time when new version of the game gets released.
 * This repository is for archive purposes only.
+* This repository do not support unofficial re-uploads of removed assets.
 * Anyone can contribute to this Repository.
 ---
-### Unofficial re-uploads
-[Gaobaiawa 123 Cloud Disk](https://www.123pan.com/s/HoqUVv-U7SBA.html)
