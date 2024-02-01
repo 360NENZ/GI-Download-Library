@@ -25,5 +25,5 @@ GenshinImpact_CBT and Yuanshen_CBT are pre-release, regardless of their version,
 * This repository will update from time to time when new version of the game gets released.
 * This repository is for archive purposes only.
 * This repository do not support unofficial re-uploads of removed assets.
-* Anyone can contribute to this Repository.
+* Anyone can contribute to this repository.
 ---
