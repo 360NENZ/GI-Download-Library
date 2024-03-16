@@ -21,3 +21,5 @@ GenshinImpact_CBT 和 Yuanshen_CBT 是预发行测试版本, 无论写的是什�
 * 游戏新版本更新的时候这个仓库不定时更新.
 * 该仓库仅用于链接归档.
 * 任何人都可以做出贡献.
+
+**3.2 & 3.4 & 4.1 Provide By 哆啦D夢|DuolaD和CYTeam**
