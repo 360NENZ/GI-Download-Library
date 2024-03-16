@@ -1,7 +1,7 @@
 # 原神-下載鏈接倉庫
 ![paimon](https://upload-static.hoyoverse.com/payment-center/2020/08/07/0ff079b16fe6f9dfbf4eeb6e88a760b6_3134491283013841501.png)
 
-[EN](Readme.md)|**簡體中文**|[繁體中文](Readme.Chinese_Traditional.md)    
+[EN](Readme.md)|[简体中文](Readme.Chinese_Simplified.md)|**繁體中文**  
 
 部分下載服務由[哆啦D夢|DuolaD](https://github.com/DuolaD)和[CYTeam](https://www.cyteam.cn/)提供。  
 
