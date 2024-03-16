@@ -30,4 +30,4 @@ GenshinImpact_CBT and Yuanshen_CBT are pre-release, regardless of their version,
 * Anyone can contribute to this repository.
 ---
 
-**3.2 & 3.4 & 4.1 Provide By 哆啦D夢|DuolaD和CYTeam**
+**3.2 & 3.4 & 4.1 Provide By 哆啦D夢|DuolaD and CYTeam**
