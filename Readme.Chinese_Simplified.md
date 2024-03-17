@@ -1,6 +1,10 @@
 # 原神-下载链接仓库
 ![paimon](https://upload-static.hoyoverse.com/payment-center/2020/08/07/0ff079b16fe6f9dfbf4eeb6e88a760b6_3134491283013841501.png)
-## 原神中国版和国际版的下载链接
+
+[EN](Readme.md)|**简体中文**|[繁體中文](Readme.Chinese_Traditional.md)    
+
+部分下载服务由[哆啦D夢|DuolaD](https://github.com/DuolaD)和[CYTeam](https://www.cyteam.cn/)提供。  
+
 ### 提示
 从3.1.5x beta开始mihoyo添加了key和cookie的下载验证
 
@@ -15,7 +19,7 @@ GenshinImpact_CBT 和 Yuanshen_CBT 是预发行测试版本, 无论写的是什�
 
 ### "Genshin Impact" 和 "Yuanshen" 这两个版本有什么区别?
 * **Genshin Impact** - 国际版-OS版
-* **Yuanshen** - 中国版-CN版
+* **Yuanshen** - 中国大陆版-CN版
 ---
 **注意**: 
 * 游戏新版本更新的时候这个仓库不定时更新.

@@ -1,6 +1,8 @@
 # GI-Download-Library
 ![paimon](https://upload-static.hoyoverse.com/payment-center/2020/08/07/0ff079b16fe6f9dfbf4eeb6e88a760b6_3134491283013841501.png)
-[EN](README.md) | [简中](README_zh-CN.md)
+**EN**|[简体中文](Readme.Chinese_Simplified.md)|[繁體中文](Readme.Chinese_Traditional.md)  
+
+Partial download services are provided by [哆啦D夢|DuolaD](https://github.com/DuolaD) and [CYTeam](https://www.cyteam.cn/).  
 
 ## Genshin and Yuanshen Download Links
 ### Tips
@@ -17,7 +19,7 @@ GenshinImpact_CBT and Yuanshen_CBT are pre-release, regardless of their version,
 
 ### What's the difference between _"Genshin"_ and _"Yuanshen"_?
 * **Genshin Impact** - Overseas/Global Version
-* **Yuanshen** - Chinese Version
+* **Yuanshen** - Mainland Chinese Version
 ---
 **Note**: 
 
@@ -28,4 +30,4 @@ GenshinImpact_CBT and Yuanshen_CBT are pre-release, regardless of their version,
 * Anyone can contribute to this repository.
 ---
 
-**3.2 & 3.4 & 4.1 Provide By 哆啦D夢|DuolaD和CYTeam**
+**3.2 & 3.4 & 4.1 Provide By 哆啦D夢|DuolaD and CYTeam**
