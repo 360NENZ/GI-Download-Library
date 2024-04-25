@@ -1,6 +1,10 @@
 # GI-Download-Library
 ![paimon](https://upload-static.hoyoverse.com/payment-center/2020/08/07/0ff079b16fe6f9dfbf4eeb6e88a760b6_3134491283013841501.png)
-[EN](README.md) | [简中](README_zh-CN.md)
+[EN](README.md) | [简中](README_zh-CN.md) | [繁中](README_zh-TW.md)
+
+---
+Partial download services are provided by [**哆啦D夢|DuolaD**](https://github.com/DuolaD) and [**CYTeam**](https://www.cyteam.cn/).  
+---
 
 ## Genshin and Yuanshen Download Links
 ### Tips
@@ -20,12 +24,9 @@ GenshinImpact_CBT and Yuanshen_CBT are pre-release, regardless of their version,
 * **Yuanshen** - Chinese Version
 ---
 **Note**: 
-
-* This repository include links from publicly available internet resources that have been carefully collected and organized by the repository contributors.
 * This repository will update from time to time when new version of the game gets released.
 * This repository is for archive purposes only.
-* This repository do not support unofficial re-uploads of removed assets.
-* Anyone can contribute to this repository.
+* Anyone can contribute to this Repository.
 ---
-
-**3.2 & 3.4 & 4.1 Provide By 哆啦D夢|DuolaD和CYTeam**
+### Unofficial re-uploads
+[Gaobaiawa 123 Cloud Disk](https://www.123pan.com/s/HoqUVv-U7SBA.html)
